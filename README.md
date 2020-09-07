@@ -1,5 +1,5 @@
 # simpleTwitterClass
-Simple implementation to use the TwitterApiExchange Class, check it out at https://github.com/J7mbo/twitter-api-php
+Simple implementation to use the TwitterApiExchange Class, check it out at https://github.com/seba1rx/twitter-api-php
 
 RELEVANT data obtained with method getTweetsFromAccount:
 
